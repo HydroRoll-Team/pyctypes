@@ -7,7 +7,7 @@ Compile the cpp dynamic library and allow Python calls.
 > * Python 3.8+ _(better with Visual Studio Code)_
 > * gcc/g++ 编译器
 
-这只是一个示例仓库，最终目的是兼容一些动态链接库，无需重复编写代码。
+这只是一个示例仓库，最终目的是兼容一些动态链接库，也就不需要重复编写代码了。
 
 ## 复现步骤
 
